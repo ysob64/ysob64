@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @youma64
+- 👋 Hi, I’m @ysob64
 - I’m interested in C and C#, lua, and I little bit of java and python !
 - Fun fact: I never finished every project I started :(
 - currently a student in college
