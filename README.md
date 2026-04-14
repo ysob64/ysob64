@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ysob64
 - I’m interested in C and C#, lua, and I little bit of java and python !
-- Fun fact: I never finished every project I started :(
-- currently a student in college
+- currently a student in college.
 - Aside from being a dev/gamedev, I also play trombone for 10 years now (as of 2025), and train myself for 3D modeling and texturing.
